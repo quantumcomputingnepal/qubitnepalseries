@@ -11,3 +11,7 @@ You can go through the tutorial -- it's detailed with easy-to-write code!
 Take this for your personal use only!
 
 Encourage more to learn quantum computing!!!!
+
+Contributers:
+1. Sabin Thapa (https://www.linkedin.com/in/sabinthapa/)
+2. Suman Kandel ()
